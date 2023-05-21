@@ -1,0 +1,14 @@
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\bin\Debug\WeatherAppp.exe.config
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\bin\Debug\WeatherAppp.exe
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\bin\Debug\WeatherAppp.pdb
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\obj\Debug\WeatherAppp.csproj.AssemblyReference.cache
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\obj\Debug\WeatherAppp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\obj\Debug\WeatherAppp.Properties.Resources.resources
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\obj\Debug\WeatherAppp.csproj.GenerateResource.cache
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\obj\Debug\WeatherAppp.csproj.CoreCompileInputs.cache
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\obj\Debug\WeatherAppp.exe
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\obj\Debug\WeatherAppp.pdb
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\obj\Debug\WeatherAppp.Form1.resources
+C:\Users\Фаниль\RiderProjects\WeatherAppp\WeatherAppp\obj\Debug\WeatherAppp.csproj.CopyComplete
